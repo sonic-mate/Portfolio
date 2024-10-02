@@ -1,6 +1,5 @@
 # dimokrit way
-![#c5f015]`#c5f015`
-## [Token ENV Contracts Ecosystem](https://placehold.it/150/ffffff/ff0000?text=hello)
+# Token ENV Contracts Ecosystem
 <p align="left">
    <img src="https://img.shields.io/badge/HardHat-yellow" alt="HardHat">
    <img src="https://img.shields.io/badge/Solidity-grey" alt="Solidity">
@@ -9,7 +8,7 @@
 
 [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
 
-### About
+### <span style="color:red">About</span>
 An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, FT), vesting, and a convenient way of managing.
 The ecosystem is designed to work with EVM (Ethereum Virtual Machine) blockchains.
 Written on the basis of HardHat.
@@ -33,7 +32,7 @@ Written on the basis of HardHat.
 _* Project was freezed for reasons beyond my control_
 
 
-## Cat-In-Bed. Market-maker opensea bot
+# Cat-In-Bed. Market-maker opensea bot
 <p align="left">
    <img src="https://img.shields.io/badge/CSS-red" alt="CSS">
    <img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript">
