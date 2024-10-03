@@ -97,3 +97,25 @@ Fuki is listed coin on Sui blockchain. To find more details about Fuki coin clic
 <img src="https://github.com/dimokrit/images/blob/main/Fuki%20Admin%20Panel.png" alt="Cat-In-Bed">
 
 _*I can share only contract code with you_
+
+# Uniswap UniversalRouter gas optimized
+<p align="left">
+   <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
+   <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
+   <img src="https://img.shields.io/badge/HardHat-yellow" alt="HardHat">
+   <img src="https://img.shields.io/badge/Solidity-grey" alt="Solidity">
+   <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
+</p>
+
+### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized/blob/main/README.md)  
+
+### About
+Project content Uniswap [UniversalRouter](https://docs.uniswap.org/contracts/universal-router/overview) contract but gas optimized with the help of [assembly](https://docs.soliditylang.org/en/latest/assembly.html) language.
+Contract can be used for cheaper swaps on EVM blockchains.
+Also was written two scritps to generate correct input parameter to swap functions.
+
+### I developed
+- Refactoring contract code with assembly
+- Scripts
+
+_*Project didn't realed_
