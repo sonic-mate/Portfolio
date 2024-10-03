@@ -80,9 +80,9 @@ _* Project is private_
    <img src="https://img.shields.io/badge/HTML-red" alt="HTML">
 </p>
 
-[Fuki](https://fukigang.com/)
-[Fuki staking](https://fukigang.com/staking)
-[Code](https://github.com/dimokrit/Sui-Move-Staking-Contract)
+### [Fuki](https://fukigang.com/)  
+### [Fuki staking](https://fukigang.com/staking)  
+### [Code](https://github.com/dimokrit/Sui-Move-Staking-Contract)  
 
 ### About
 Fuki is listed coin on Sui blockchain. To find more details about Fuki coin click on links above.
