@@ -118,4 +118,4 @@ Also was written two scritps to generate correct input parameter to swap functio
 - Refactoring contract code with assembly
 - Scripts
 
-_*Project didn't realed_
+_*Project didn't released_
