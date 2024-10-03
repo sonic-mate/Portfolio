@@ -13,8 +13,8 @@
 ### [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
 
 ### About
-An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, FT), vesting, and a convenient way of managing.
-The ecosystem is designed to work with EVM (Ethereum Virtual Machine) blockchains.
+An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, FT), vesting, and a convenient way of managing.  
+The ecosystem is designed to work with EVM (Ethereum Virtual Machine) blockchains.  
 Written on the basis of HardHat.
 
 
@@ -107,11 +107,11 @@ _*I can share only contract code with you_
    <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
 </p>
 
-### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized/blob/main/README.md)  
+### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized)  
 
 ### About
-Project content Uniswap [UniversalRouter](https://docs.uniswap.org/contracts/universal-router/overview) contract but gas optimized with the help of [assembly](https://docs.soliditylang.org/en/latest/assembly.html) language.
-Contract can be used for cheaper swaps on EVM blockchains.
+Project content Uniswap [UniversalRouter](https://docs.uniswap.org/contracts/universal-router/overview) contract but gas optimized with the help of [assembly](https://docs.soliditylang.org/en/latest/assembly.html) language.  
+Contract can be used for cheaper swaps on EVM blockchains.  
 Also was written two scritps to generate correct input parameter to swap functions.
 
 ### I developed
@@ -119,3 +119,24 @@ Also was written two scritps to generate correct input parameter to swap functio
 - Scripts
 
 _*Project didn't released_
+
+# Mars Wars. Play-to-earn NFT game
+<p align="left">
+   <img src="https://img.shields.io/badge/Polygon-purple" alt="Polygon">
+   <img src="https://img.shields.io/badge/Python-green" alt="Python">
+   <img src="https://img.shields.io/badge/Solidity-grey" alt="Solidity">
+   <img src="https://img.shields.io/badge/React-darkblue" alt="React">
+   <img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript">
+</p>
+
+### [Mars Wars](https://mars-wars.com/)  
+
+### About
+Mars Wars is play-to-earn NFT game on Polygon blockchain. There are two parties in the game: the beasts and the aliens. These two parties are at war with each other. Each one has 25 unique characters, and each has different abilities.  
+I was solo blockchain developer at this project
+
+### I developed
+- NFT generation script
+- NFT smart-contract
+- Web3 integration
+
