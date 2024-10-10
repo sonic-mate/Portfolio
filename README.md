@@ -1,7 +1,7 @@
 # dimokrit way
 <a href="https://github.com/dimokrit">![github-header-image](https://github.com/dimokrit/images/blob/main/github-header-image.png)
 </a>
-# Token ENV Contracts Ecosystem
+# Token ENV Contracts Ecosystem🌏
 <p align="left">
    <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
    <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
@@ -9,8 +9,6 @@
    <img src="https://img.shields.io/badge/Solidity-grey" alt="Solidity">
    <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
 </p>
-
-### [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
 
 ### About
 An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, FT), vesting, and a convenient way of managing.  
@@ -33,10 +31,12 @@ Written on the basis of HardHat.
 - To manage ecosystem using the CLI
 - Test contract functionality
 
+### [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
+
 _* Project was freezed for reasons beyond my control_
 
 
-# Cat-In-Bed. Opensea market-maker bot
+# Cat-In-Bed. Opensea market-maker bot🐈
 <p align="left">
    <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
    <img src="https://img.shields.io/badge/Opensea-lightblue" alt="Opensea">
@@ -71,7 +71,7 @@ Bot was successfully tested on [Colorful Sunsets](https://opensea.io/collection/
 
 _* Project is private_
 
-# Fuki
+# Fuki🧊
 <p align="left">
    <img src="https://img.shields.io/badge/Sui-lightblue" alt="Sui">
    <img src="https://img.shields.io/badge/Move-blue" alt="Move">
@@ -80,13 +80,8 @@ _* Project is private_
    <img src="https://img.shields.io/badge/HTML-red" alt="HTML">
 </p>
 
-### [Fuki](https://fukigang.com/)  
-### [Fuki staking](https://fukigang.com/staking)  
-### [Code](https://github.com/dimokrit/Sui-Move-Staking-Contract)  
-
 ### About
 Fuki is listed coin on Sui blockchain. To find more details about Fuki coin click on links above.
-
 
 ### I developed
 - Export Fuki website from [canva](https://canva.com) (HTML) to own React app
@@ -96,9 +91,13 @@ Fuki is listed coin on Sui blockchain. To find more details about Fuki coin clic
 - Host website and deploy contract
 <img src="https://github.com/dimokrit/images/blob/main/Fuki%20Admin%20Panel.png" alt="Cat-In-Bed">
 
+### [Fuki](https://fukigang.com/)  
+### [Fuki staking](https://fukigang.com/staking)  
+### [Code](https://github.com/dimokrit/Sui-Move-Staking-Contract)  
+
 _*I can share only contract code with you_
 
-# Uniswap UniversalRouter gas optimized
+# Uniswap UniversalRouter gas optimized🦄
 <p align="left">
    <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
    <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
@@ -106,8 +105,6 @@ _*I can share only contract code with you_
    <img src="https://img.shields.io/badge/Solidity-grey" alt="Solidity">
    <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
 </p>
-
-### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized)  
 
 ### About
 Project content Uniswap [UniversalRouter](https://docs.uniswap.org/contracts/universal-router/overview) contract but gas optimized with the help of [assembly](https://docs.soliditylang.org/en/latest/assembly.html) language.  
@@ -118,9 +115,11 @@ Also was written two scritps to generate correct input parameter to swap functio
 - Refactoring contract code with assembly
 - Scripts
 
+### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized)  
+
 _*Project didn't released_
 
-# Mars Wars. Play-to-earn NFT game
+# Mars Wars. Play-to-earn NFT game🪐
 <p align="left">
    <img src="https://img.shields.io/badge/Polygon-purple" alt="Polygon">
    <img src="https://img.shields.io/badge/Python-green" alt="Python">
@@ -128,8 +127,6 @@ _*Project didn't released_
    <img src="https://img.shields.io/badge/React-darkblue" alt="React">
    <img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript">
 </p>
-
-### [Mars Wars](https://mars-wars.com/)  
 
 ### About
 Mars Wars is play-to-earn NFT game on Polygon blockchain. There are two parties in the game: the beasts and the aliens. These two parties are at war with each other. Each one has 25 unique characters, and each has different abilities.  
@@ -140,3 +137,4 @@ I was solo blockchain developer at this project
 - NFT smart-contract
 - Web3 integration
 
+### [Mars Wars](https://mars-wars.com/)
