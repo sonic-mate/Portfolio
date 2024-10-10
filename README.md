@@ -1,7 +1,7 @@
 # dimokrit way
 <a href="https://github.com/dimokrit">![github-header-image](https://github.com/dimokrit/images/blob/main/github-header-image.png)
 </a>
-# Token ENV Contracts Ecosystem🌏
+# ENV Token Contracts Ecosystem🌏
 <p align="left">
    <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
    <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
