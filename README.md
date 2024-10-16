@@ -35,6 +35,32 @@ Written on the basis of HardHat.
 
 _* Project was freezed for reasons beyond my control_
 
+# Ethereum analytical platform📊
+<p align="left">
+   <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
+   <img src="https://img.shields.io/badge/Python-green" alt="Python">
+   <img src="https://img.shields.io/badge/Django-darkgreen" alt="Solidity">
+</p>
+
+### About
+Analitical platform to parse filtered transactions data on Ethereum blockchain. Project was developed by me and my colleague in 6 month.
+We needed to parse all transaction on ethereum (historical and streaming), filter and analize it. The amount of data was large and we had to optimize our queries a lot.
+Platform has frontend part, many user's filters and telegram bot integration to track chosen wallets.
+
+### I developed
+- Parsing API service
+- Optimyzed filtering service
+- Telegram bot
+- Frontent on Django
+
+
+### Project let you
+- Find any transaction list by date/values/senders/contracts/etc.
+- Track wallets and contracts with the help of telegram bot
+- Analyze and predict coins/wallets behavior
+
+_* Project is private_
+
 
 # Cat-In-Bed. Opensea market maker bot🐈
 <p align="left">
