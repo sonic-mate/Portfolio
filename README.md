@@ -32,29 +32,29 @@ Written on the basis of HardHat.
 ### [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
 
 
-# Ethereum analytical platform📊
+# Multi-chain payment system💸
 <p align="left">
+   <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
    <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
-   <img src="https://img.shields.io/badge/Python-green" alt="Python">
-   <img src="https://img.shields.io/badge/Django-darkgreen" alt="Solidity">
+   <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
+   <img src="https://img.shields.io/badge/React-darkblue" alt="React">
+   <img src="https://img.shields.io/badge/Vite-purple" alt="Vite">
 </p>
 
 ### About
-Analitical platform to parse filtered transactions data on Ethereum blockchain. Project was developed by me and my colleague in 6 month.
-We needed to parse all transaction on ethereum (historical and streaming), filter and analize it. The amount of data was large and we had to optimize our queries a lot.
-Platform has frontend part, many user's filters and telegram bot integration to track chosen wallets.
+A payment system capable of automatically detecting and transferring any ERC-20 tokens in any EVM chain from the user's wallet.  
+The project removes the need to pay for the purchase with a certain token. He doesn't need to swap or bridge token.  
+The system itself will find a token from the user, which is enough for payment, or divide the payment into several tokens.  
+The buyer only needs to confirm the transaction for payment, and he can also choose a certain token for payment himself.  
+Now the project is able to accept 100 tokens in 5 networks, the system is easily scalable to other networks and tokens.  
 
 ### I developed
-- Parsing API service
-- Optimyzed filtering service
-- Telegram bot
-- Frontent on Django
+- Parsing and saving top tokens of network 
+- Finding wallet's tokens
+- Building payment transaction chain 
+- Demo react app
 
-### Project let you
-- Find any transaction list by date/values/senders/contracts/etc.
-- Track wallets and contracts with the help of telegram bot
-- Analyze and predict coins/wallets behavior
-
+### [Code](https://github.com/dimokrit/Pay-Connector)
 
 # Cat-In-Bed. Opensea market maker bot🐈
 <p align="left">
@@ -81,9 +81,7 @@ Market-maker opeansea NFT bot let artificially create trades and control floor f
 - Update NFT data base
 - Rule balances of your wallets
 - Easy get NFTs and wallets details
-
-Backend is ready at 100%.  
-Frontend part of the project finished at 60%.  
+ 
 Bot was successfully tested on [Colorful Sunsets](https://opensea.io/collection/colorful-sunsets-1) NFT collection in testnet and worked with official NFT collection on mainnet.
 
 <img src="https://github.com/dimokrit/images/blob/main/Cat-In-Bed.png" alt="Cat-In-Bed">
@@ -145,7 +143,7 @@ Also was written two scritps to generate correct input parameter to swap functio
 </p>
 
 ### About
-Project allow to send NFT with [metatransactions](https://coinmarketcap.com/academy/glossary/metatransaction) on EVM blockchains.
+Project allow to send NFT with [metatransactions](https://coinmarketcap.com/academy/glossary/metatransaction) on EVM blockchains.  
 It is required to provide fee payer private key, then user can send nfts without gas payments.
 
 ### I developed
@@ -163,7 +161,7 @@ It is required to provide fee payer private key, then user can send nfts without
 </p>
 
 ### About
-Mars Wars is play-to-earn NFT game on Polygon blockchain.
+Mars Wars is play-to-earn NFT game on Polygon blockchain.  
 There are two parties in the game: the beasts and the aliens. These two parties are at war with each other. Each one has 25 unique characters, and each has different abilities.  
 
 ### I developed
@@ -181,9 +179,9 @@ There are two parties in the game: the beasts and the aliens. These two parties 
 </p>
 
 ### About
-Bot to make "natural" trades (swaps) between your wallets. It works with 2 dex to create activity in certain coin on sui blockchain.
-Bot have telegram bot interface, and let you to create any number of wallets, easy distribute and raise coins from them, also check trading proceess, errors and states.
-You can set bot's parameters to control trade price, amounts and periods.
+Bot to make "natural" trades (swaps) between your wallets. It works with 2 dex to create activity in certain coin on sui blockchain.  
+Bot have telegram bot interface, and let you to create any number of wallets, easy distribute and raise coins from them, also check trading proceess, errors and states.  
+You can set bot's parameters to control trade price, amounts and periods.  
 Bot create random trade shedule according to set parameters and help to advance coin.
 
 ### I developed
