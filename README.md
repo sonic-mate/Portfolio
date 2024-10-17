@@ -15,7 +15,6 @@ An ecosystem of smart contracts, tests and management scripts for the implementa
 The ecosystem is designed to work with EVM (Ethereum Virtual Machine) blockchains.  
 Written on the basis of HardHat.
 
-
 ### I developed
 - Multichain upgradable ERC20 and ERC721 token contracts
 - Upgradable token gates contract
@@ -23,7 +22,6 @@ Written on the basis of HardHat.
 - Tests
 - Management scripts
 - Documentation
-
 
 ### Project let you
 - To deploy inside contracs in 7 blockchains easy
@@ -33,7 +31,6 @@ Written on the basis of HardHat.
 
 ### [Code](https://github.com/dimokrit/Token-ENV-Contracts-Ecosystem)
 
-_* Project was freezed for reasons beyond my control_
 
 # Ethereum analytical platform📊
 <p align="left">
@@ -53,13 +50,10 @@ Platform has frontend part, many user's filters and telegram bot integration to 
 - Telegram bot
 - Frontent on Django
 
-
 ### Project let you
 - Find any transaction list by date/values/senders/contracts/etc.
 - Track wallets and contracts with the help of telegram bot
 - Analyze and predict coins/wallets behavior
-
-_* Project is private_
 
 
 # Cat-In-Bed. Opensea market maker bot🐈
@@ -76,11 +70,9 @@ _* Project is private_
 ### About
 Market-maker opeansea NFT bot let artificially create trades and control floor for the NFT collection.
 
-
 ### I developed
 - Frontend
 - Backend (Bot and API Routes)
-
 
 ### Project let you
 - Create "natural" randomized trades between your wallets
@@ -96,7 +88,6 @@ Bot was successfully tested on [Colorful Sunsets](https://opensea.io/collection/
 
 <img src="https://github.com/dimokrit/images/blob/main/Cat-In-Bed.png" alt="Cat-In-Bed">
 
-_* Project is private_
 
 # Fuki🧊
 <p align="left">
@@ -121,9 +112,8 @@ Fuki is listed coin on Sui blockchain. To find more details about Fuki coin clic
 ### [Fuki staking](https://fukigang.com/staking)  
 ### [Code](https://github.com/dimokrit/Sui-Move-Staking-Contract)  
 
- <img src="https://github.com/dimokrit/images/blob/main/fuki.png" alt="fuki">
+<img src="https://github.com/dimokrit/images/blob/main/fuki.png" alt="fuki">
 
-_*I can share only contract code with you_
 
 # Uniswap UniversalRouter gas optimized🦄
 <p align="left">
@@ -145,7 +135,23 @@ Also was written two scritps to generate correct input parameter to swap functio
 
 ### [Code](https://github.com/dimokrit/Uniswap-UniversalRouter-gas-optimized)  
 
-_*Project didn't released_
+
+# Metatransaction sender🤝
+<p align="left">
+   <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
+   <img src="https://img.shields.io/badge/Ethereum-blue" alt="Ethereum">
+    <img src="https://img.shields.io/badge/React-darkblue" alt="React">
+   <img src="https://img.shields.io/badge/JavaScript-orange" alt="JavaScript">
+</p>
+
+### About
+Project allow to send NFT with [metatransactions](https://coinmarketcap.com/academy/glossary/metatransaction) on EVM blockchains.
+It is required to provide fee payer private key, then user can send nfts without gas payments.
+
+### I developed
+- Basic react app connect wallet and send trx
+- Metatransaction builder and sender  
+
 
 # Mars Wars. Play-to-earn NFT game🪐
 <p align="left">
@@ -157,8 +163,8 @@ _*Project didn't released_
 </p>
 
 ### About
-Mars Wars is play-to-earn NFT game on Polygon blockchain. There are two parties in the game: the beasts and the aliens. These two parties are at war with each other. Each one has 25 unique characters, and each has different abilities.  
-I was solo blockchain developer at this project.
+Mars Wars is play-to-earn NFT game on Polygon blockchain.
+There are two parties in the game: the beasts and the aliens. These two parties are at war with each other. Each one has 25 unique characters, and each has different abilities.  
 
 ### I developed
 - NFT generation script
@@ -187,4 +193,3 @@ Bot create random trade shedule according to set parameters and help to advance 
 
 <img src ='https://github.com/dimokrit/images/blob/main/MarketMakerBot.png'>
 
-_* Project is private_
