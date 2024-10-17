@@ -149,7 +149,7 @@ Project allow to send NFT with [metatransactions](https://coinmarketcap.com/acad
 It is required to provide fee payer private key, then user can send nfts without gas payments.
 
 ### I developed
-- Basic react app connect wallet and send trx
+- Basic react app to connect wallet and send trx
 - Metatransaction builder and sender  
 
 
