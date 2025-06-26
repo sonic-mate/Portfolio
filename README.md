@@ -1,4 +1,4 @@
-# dimokrit way
+# sonic way
 <a href="https://github.com/dimokrit">![github-header-image](https://github.com/dimokrit/images/blob/main/github-header-image.png)
 </a>
 # ENV Token Contracts Ecosystem🌏
