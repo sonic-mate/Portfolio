@@ -11,7 +11,7 @@
 </p>
 
 ### About
-An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, FT), vesting, and a convenient way of managing.  
+An ecosystem of smart contracts, tests and management scripts for the implementation of tokens (FT, NFT), vesting, and a convenient way of managing.  
 The ecosystem is designed to work with EVM (Ethereum Virtual Machine) blockchains.  
 Written on the basis of HardHat.
 
