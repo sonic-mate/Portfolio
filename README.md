@@ -1,6 +1,5 @@
 # sonic way
 
-</a>
 # ENV Token Contracts Ecosystem🌏
 <p align="left">
    <img src="https://img.shields.io/badge/Self-made-lightgreen" alt="Self-made">
